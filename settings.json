@@ -1,0 +1,5 @@
+{
+    "distDir": "dist",
+    "srcDir":  "src",
+    "srcFile": "news.json"
+}
